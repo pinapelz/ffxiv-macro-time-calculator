@@ -53,7 +53,7 @@ const App: React.FC = () => {
     <div className="container mx-auto p-4">
     <div className="flex items-center">
       <img src="ffxivbyre.png" alt="Logo" className="w-16 h-16 mr-4" />
-      <h1 className="text-3xl font-semibold">FFXIV Macro Timer</h1>
+      <h1 className="text-3xl font-semibold">FFXIV Macro Time Calculator</h1>
     </div>
       <p className="mb-2">Paste your macro below:</p>
       <textarea
